@@ -1,0 +1,13 @@
+name = "NREL"
+uuid = "c59c93cf-786b-4daa-a9b1-85200e0302ff"
+repo = "https://github.nrel.gov/JuliaLang/NRELRegistry"
+description = "Registry for internal or otherwise-unpublished NREL Julia packages"
+
+[packages]
+"05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "CapacityValue", path = "CapacityValue"}
+"05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "MinCostFlows", path = "MinCostFlows"}
+"05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "PLEXOS2PRAS", path = "PLEXOS2PRAS"}
+"05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "PRAS", path = "PRAS"}
+"05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "ResourceAdequacy", path = "ResourceAdequacy"}
+
+

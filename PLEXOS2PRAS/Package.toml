@@ -1,0 +1,4 @@
+name = "PLEXOS2PRAS"
+uuid = "23000632-8e99-4af6-adcc-f1f915ea3706"
+author = "Gord Stephen <gord.stephen@nrel.gov>"
+repo = "https://github.nrel.gov/PRAS/PLEXOS2PRAS.jl.git"
