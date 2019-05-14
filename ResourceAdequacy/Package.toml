@@ -1,0 +1,4 @@
+name = "ResourceAdequacy"
+uuid = "f1bff6d7-bd5f-4f25-88ac-02781f2d51b7"
+author = "Gord Stephen <gord.stephen@nrel.gov>"
+repo = "https://github.com/NREL/ResourceAdequacy.jl.git"
