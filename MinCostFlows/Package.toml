@@ -1,4 +1,4 @@
 name = "MinCostFlows"
 uuid = "62286e6e-1779-56f1-888a-1c0056788ce0"
 author = "Gord Stephen <gord.stephen@nrel.gov>"
-repo = "https://github.nrel.gov/PRAS/MinCostFlows.jl.git"
+repo = "https://github.com/NREL/MinCostFlows.jl.git"
