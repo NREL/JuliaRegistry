@@ -1,4 +1,4 @@
 name = "CapacityValue"
 uuid = "e9572c70-259d-42a9-812a-bf29f717e3f1"
 author = "Gord Stephen <gord.stephen@nrel.gov>"
-repo = "https://github.nrel.gov/PRAS/CapacityValue.jl.git"
+repo = "https://github.com/NREL/CapacityValue.jl.git"
