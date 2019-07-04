@@ -4,7 +4,7 @@ repo = "https://github.nrel.gov/JuliaLang/NRELRegistry"
 description = "Registry for internal or otherwise-unpublished NREL Julia packages"
 
 [packages]
-"e9572c70-259d-42a9-812a-bf29f717e3f1" = { name = "CapacityValue", path = "CapacityValue"}
+"e9572c70-259d-42a9-812a-bf29f717e3f1" = { name = "CapacityCredit", path = "CapacityCredit"}
 "62286e6e-1779-56f1-888a-1c0056788ce0" = { name = "MinCostFlows", path = "MinCostFlows"}
 "23000632-8e99-4af6-adcc-f1f915ea3706" = { name = "PLEXOS2PRAS", path = "PLEXOS2PRAS"}
 "05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "PRAS", path = "PRAS"}

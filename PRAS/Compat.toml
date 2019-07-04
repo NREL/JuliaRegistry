@@ -5,13 +5,13 @@ Distributions = "0.17.0-0"
 JLD = "0.9.1-0"
 
 ["0.4.0"]
-CapacityValue = "0.4.0"
+CapacityCredit = "0.4.0"
 MinCostFlows = "0.1.0"
 PLEXOS2PRAS = "0.3.0"
 ResourceAdequacy = "0.4.0"
 
 ["0.4.1"]
-CapacityValue = "0.4.0"
+CapacityCredit = "0.4.0"
 MinCostFlows = "0.1.1"
 PLEXOS2PRAS = "0.3.2"
 Reexport = "0.2.0-0"
