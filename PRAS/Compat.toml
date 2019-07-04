@@ -1,9 +1,16 @@
-["0.4.0"]
+["0.4"]
 julia = "0.7-1"
 ArgParse = "0.6.1-0"
-CapacityValue = "0.4.0-0"
+
+["0.4.0"]
 Distributions = "0.17.0-0"
 JLD = "0.9.1-0"
+CapacityValue = "0.4.0"
 MinCostFlows = "0.1.0"
 PLEXOS2PRAS = "0.3.0"
 ResourceAdequacy = "0.4.0"
+
+["0.4.1"]
+CapacityValue = "0.4.0"
+PLEXOS2PRAS = "0.3.1"
+ResourceAdequacy = "0.4.1"
