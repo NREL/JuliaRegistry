@@ -9,3 +9,6 @@ ResourceAdequacy = "f1bff6d7-bd5f-4f25-88ac-02781f2d51b7"
 
 ["0.4.1"]
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+["0.4.2"]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
