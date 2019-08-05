@@ -1,7 +1,7 @@
 name = "NREL"
 uuid = "c59c93cf-786b-4daa-a9b1-85200e0302ff"
-repo = "https://github.nrel.gov/JuliaLang/NRELRegistry"
-description = "Registry for internal or otherwise-unpublished NREL Julia packages"
+repo = "https://github.com/NREL/JuliaRegistry"
+description = "Registry for NREL-developed, otherwise-unpublished Julia packages"
 
 [packages]
 "e9572c70-259d-42a9-812a-bf29f717e3f1" = { name = "CapacityCredit", path = "CapacityCredit"}
