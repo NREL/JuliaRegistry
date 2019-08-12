@@ -10,5 +10,3 @@ description = "Registry for NREL-developed, otherwise-unpublished Julia packages
 "05348d26-1c52-11e9-35e3-9d51842d34b9" = { name = "PRAS", path = "PRAS"}
 "b5ddb534-8618-11e9-23a2-3523bd004218" = { name = "PRASBase", path = "PRASBase"}
 "f1bff6d7-bd5f-4f25-88ac-02781f2d51b7" = { name = "ResourceAdequacy", path = "ResourceAdequacy"}
-
-
