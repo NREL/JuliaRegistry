@@ -1,0 +1,4 @@
+name = "PLEXOSUtils"
+uuid = "05faf425-d728-49da-9df3-01114615952c"
+author = "Gord Stephen <gord.stephen@nrel.gov>"
+repo = "https://github.com/NREL/PLEXOSUtils.jl.git"

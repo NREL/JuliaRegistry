@@ -1,0 +1,4 @@
+name = "H5PLEXOS"
+uuid = "30e9bc9d-95c1-474a-9a40-60ab4bafb5d2"
+author = "Gord Stephen <gord.stephen@nrel.gov>"
+repo = "https://github.com/NREL/H5PLEXOS.jl.git"
