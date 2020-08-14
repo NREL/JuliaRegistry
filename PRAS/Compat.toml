@@ -33,15 +33,14 @@ HDF5 = "0.13"
 MinCostFlows = "0.1.2"
 Random123 = "1.2"
 Reexport = "0.2"
+TimeZones = "1"
 
 ["0.5.0"]
 OnlineStats = "1.2"
 OnlineStatsBase = "1.2"
 StatsBase = "0.32"
-TimeZones = "1.0"
 
 ["0.5.1"]
 OnlineStats = "1.5"
 OnlineStatsBase = "1.4"
 StatsBase = "0.33"
-TimeZones = "1.2"
