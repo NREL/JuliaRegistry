@@ -1,0 +1,4 @@
+name = "EMISAgentSimulation"
+uuid = "31190161-dc2b-4b0d-b10a-53550de1824a"
+author = "Muhammad Bashar Anwar <muhammadbashar.anwar@nrel.gov>"
+repo = "https://github.com/NREL/EMISAgentSimulation.jl.git"

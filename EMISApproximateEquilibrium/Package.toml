@@ -1,0 +1,4 @@
+name = "EMISApproximateEquilibrium"
+uuid = "b97c8023-bc39-41d0-bb4b-e7a449f58af0"
+author = "Sourabh Dalvi <sourabh.dalvi@nrel.gov>"
+repo = "https://github.com/NREL/EMISApproximateEquilibrium.jl.git"

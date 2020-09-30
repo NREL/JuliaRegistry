@@ -1,7 +1,7 @@
 name = "NREL"
 uuid = "c59c93cf-786b-4daa-a9b1-85200e0302ff"
 repo = "https://github.com/NREL/JuliaRegistry"
-description = "Registry for NREL-developed, otherwise-unpublished Julia packages"
+description = "Registry for NREL-developed, otherwise-unregistered Julia packages"
 
 [packages]
 "e9572c70-259d-42a9-812a-bf29f717e3f1" = { name = "CapacityCredit", path = "CapacityCredit"}
@@ -12,3 +12,6 @@ description = "Registry for NREL-developed, otherwise-unpublished Julia packages
 "f1bff6d7-bd5f-4f25-88ac-02781f2d51b7" = { name = "ResourceAdequacy", path = "ResourceAdequacy"}
 "05faf425-d728-49da-9df3-01114615952c" = { name = "PLEXOSUtils", path = "PLEXOSUtils"}
 "30e9bc9d-95c1-474a-9a40-60ab4bafb5d2" = { name = "H5PLEXOS", path = "H5PLEXOS"}
+"31190161-dc2b-4b0d-b10a-53550de1824a" = { name = "EMISAgentSimulation", path = "EMISAgentSimulation"}
+"b97c8023-bc39-41d0-bb4b-e7a449f58af0" = { name = "EMISApproximateEquilibrium", path = "EMISApproximateEquilibrium"}
+"6efe0701-2f91-426f-b5bc-775d0f65f0c7" = { name = "EMISCompetitiveEquilibrium", path = "EMISCompetitiveEquilibrium"}
