@@ -8,22 +8,34 @@ ResourceAdequacy = "0.4.0-0.4.99"
 
 ["0.5"]
 julia = "1.3-1"
-PRAS = "0.5"
 TimeZones = "1"
-XLSX = "0.6"
 
 ["0.5.0"]
 DataFrames = "0.20"
 HDF5 = "0.13"
+PRAS = "0.5"
+XLSX = "0.6"
 
 ["0.5.1"]
 DataFrames = "0.21"
 HDF5 = "0.13"
+PRAS = "0.5"
+XLSX = "0.6"
 
 ["0.5.2"]
 DataFrames = "0.21"
 HDF5 = "0.13"
+PRAS = "0.5"
+XLSX = "0.6"
 
 ["0.5.3"]
 DataFrames = "0.21"
 HDF5 = "0.13-14"
+PRAS = "0.5"
+XLSX = "0.6"
+
+["0.5.4"]
+DataFrames = "1.1"
+HDF5 = "0.15"
+PRAS = "0.6"
+XLSX = "0.7"
