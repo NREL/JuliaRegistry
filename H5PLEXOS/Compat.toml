@@ -10,5 +10,5 @@ PLEXOSUtils = "0.1"
 
 ["0.6.6"]
 julia = "1"
-HDF5 = "0.15"
+HDF5 = "0.15-0.17"
 PLEXOSUtils = "0.1.8-0.2"
